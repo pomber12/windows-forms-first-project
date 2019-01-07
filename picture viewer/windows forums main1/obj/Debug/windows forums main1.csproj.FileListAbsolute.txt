@@ -1,0 +1,83 @@
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe.config
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.pdb
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Form1.resources
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Properties.Resources.resources
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.exe
+C:\Users\User\Desktop\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.pdb
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe.config
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.pdb
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csprojResolveAssemblyReference.cache
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Form1.resources
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Properties.Resources.resources
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.GenerateResource.Cache
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.CoreCompileInputs.cache
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.exe
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.pdb
+D:\igri\windows forums main1p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.testZaKontrol.resources
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe.config
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.pdb
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csprojResolveAssemblyReference.cache
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Form1.resources
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Properties.Resources.resources
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.testZaKontrol.resources
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.GenerateResource.Cache
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.CoreCompileInputs.cache
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.exe
+D:\igri\uni saves\windows forums main2p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.pdb
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe.config
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.pdb
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csprojResolveAssemblyReference.cache
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Form1.resources
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Properties.Resources.resources
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.testZaKontrol.resources
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.GenerateResource.Cache
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.CoreCompileInputs.cache
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.exe
+D:\igri\uni saves\windows forums main3p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.pdb
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe.config
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.pdb
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csprojResolveAssemblyReference.cache
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Form1.resources
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Properties.Resources.resources
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.GenerateResource.Cache
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.CoreCompileInputs.cache
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.exe
+D:\igri\uni saves\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.pdb
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Form1.resources
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows_forums_main1.Properties.Resources.resources
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.exe
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\obj\Debug\windows forums main1.pdb
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe.config
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.exe
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\windows forums main1\windows forums main1\bin\Debug\windows forums main1.pdb
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\bin\Debug\windows forums main1.exe.config
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\bin\Debug\windows forums main1.exe
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\bin\Debug\windows forums main1.pdb
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\obj\Debug\windows forums main1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\obj\Debug\windows_forums_main1.Form1.resources
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\obj\Debug\windows_forums_main1.Properties.Resources.resources
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\obj\Debug\windows forums main1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\obj\Debug\windows forums main1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\obj\Debug\windows forums main1.exe
+C:\Users\User\Desktop\За пътуване\даскалоооо унитиоооооо\2 Курс\2 kurs 1 sem\готови проекти\vsp\windows forums main4p\46015z\windows forums main1\obj\Debug\windows forums main1.pdb
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\bin\Debug\windows forums main1.exe.config
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\bin\Debug\windows forums main1.exe
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\bin\Debug\windows forums main1.pdb
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\obj\Debug\windows forums main1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\obj\Debug\windows_forums_main1.Form1.resources
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\obj\Debug\windows_forums_main1.Properties.Resources.resources
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\obj\Debug\windows forums main1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\obj\Debug\windows forums main1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\obj\Debug\windows forums main1.exe
+C:\Users\User\Desktop\са са\extract\vsp46015z\vsp46015z\46015z\windows forums main1\obj\Debug\windows forums main1.pdb
